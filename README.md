@@ -4,8 +4,18 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Merhaba+ben+Osman;Veri+bilimi,+Yapay+zeka;Makine+öğrenmesi+ve+Derin+öğrenme;alanlarında+kendimi+geliştiriyorum." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&
+                                        pause=1000&
+                                        color=FFFFFF&
+                                        center=true&
+                                        width=435&
+                                        lines=Merhaba+ben+Osman;Veri+bilimi,+Yapay+zeka;Makine+öğrenmesi+ve+Derin+öğrenme;alanlarında+kendimi+geliştiriyorum." 
+                                        alt="Typing SVG" />
+  </a>
 </p>
+
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />

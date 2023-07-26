@@ -1,7 +1,7 @@
 ![1728960](https://github.com/osman-tkdmr/osman-tkdmr/assets/67903397/f3d62163-1b89-4f9f-bff6-7aff46236f00)
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osman-tkdmr)](https://git.io/streak-stats)
 
 
 

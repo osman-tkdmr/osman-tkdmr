@@ -8,7 +8,7 @@
   </a>
 </p>
 
-
+:smile:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="blank">

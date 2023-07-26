@@ -1,4 +1,5 @@
-![670547-artificial-intelligence-brain-wallpaper](https://github.com/osman-tkdmr/osman-tkdmr/assets/67903397/dc723a71-5df4-4b99-964d-d6dc1435dad2)
+![670547-artificial-intelligence-brain-wallpaper](https://github.com/osman-tkdmr/osman-tkdmr/assets/67903397/932a47d3-05c8-41a6-ab2a-851d2e85a06a)
+
 
 
 

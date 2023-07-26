@@ -1,7 +1,7 @@
 ![1728960](https://github.com/osman-tkdmr/osman-tkdmr/assets/67903397/f3d62163-1b89-4f9f-bff6-7aff46236f00)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Merhaba+ben+Osman;Veri+bilimi+alanında+kendimi+geliştiriyorum  )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Merhaba+ben+Osman;Veri+bilimi+alanında+kendimi+geliştiriyorum;)](https://git.io/typing-svg)
 
 
 

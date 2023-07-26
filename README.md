@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osman-tkdmr&show_icons=true&theme=dracula)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="blank">

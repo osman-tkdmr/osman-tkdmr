@@ -8,7 +8,7 @@
   </a>
 </p>
 
-
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="blank">

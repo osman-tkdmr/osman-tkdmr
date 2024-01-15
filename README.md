@@ -8,7 +8,28 @@
   </a>
 </p>
 
+<p>
+  
+  <a>
+    <h3>Hakkımda</h3>
+    
+    Yazılım yolculuğuma ilk olarak 1. sınıfta C dili ile algoritma ve programlama dersi ile başladım.
+    2. sınıfta c++ dili ile Veri yapıları ve Nesne tabanlı yazılım geliştirme mantığını kavradım.
+    Java Swing ile veri tabanı ile ilişkili bir Windows uygulaması geliştirip public olarak yayınladım.
+    Yaz döneminde biraz Veri bilimi ve Makine öğrenmesi algoritmalarına merak sardım ancak çok benlik olmadığını anladım.
+    Şu an C# ve Unity ile Oyun Geliştirme öğreniyorum.
+    
+    C/C++ , Python, Java, C# gibi dillere orta düzeyde hakimim.
+    C++, C#, Python ve Java dillerinde OPP yeteneğine sahibim.
+    
+    Python ile veri görselleştirme, veri bilimi, veri analizi ve makine öğrenmesi 
+    alanlarında çeşitli eğitimleri başarıyla tamamlamış olup sertifikalarına sahibim.
+    
+    
 
+  
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="blank">
@@ -24,3 +45,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" />
   </a>
 </p>
+
+
+

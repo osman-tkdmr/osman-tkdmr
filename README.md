@@ -10,25 +10,25 @@
 
 <p>
   
-  <a>
-    <h3>Hakkımda</h3>
+  
+  <h3>Hakkımda</h3>
     
-    Yazılım yolculuğuma ilk olarak 1. sınıfta C dili ile algoritma ve programlama dersi ile başladım.
-    2. sınıfta c++ dili ile Veri yapıları ve Nesne tabanlı yazılım geliştirme mantığını kavradım.
-    Java Swing ile veri tabanı ile ilişkili bir Windows uygulaması geliştirip public olarak yayınladım.
-    Yaz döneminde biraz Veri bilimi ve Makine öğrenmesi algoritmalarına merak sardım ancak çok benlik olmadığını anladım.
-    Şu an C# ve Unity ile Oyun Geliştirme öğreniyorum.
-    
-    C/C++ , Python, Java, C# gibi dillere orta düzeyde hakimim.
-    C++, C#, Python ve Java dillerinde OPP yeteneğine sahibim.
-    
-    Python ile veri görselleştirme, veri bilimi, veri analizi ve makine öğrenmesi 
-    alanlarında çeşitli eğitimleri başarıyla tamamlamış olup sertifikalarına sahibim.
+  Yazılım alanında ilerlemek için aldığım eğitim ve deneyimler şunlardır:
+  
+  - 1.sınıfta C dili ile algoritma ve programlama dersi alarak temel kavramları öğrendim.
+  - 2.sınıfta C++ dili ile veri yapıları ve nesne tabanlı programlama konularını işledim.
+  - Java Swing kullanarak veri tabanına bağlı bir Windows uygulaması geliştirdim ve bunu genel erişime açtım.
+  - Yaz tatilinde veri bilimi ve makine öğrenmesi algoritmalarına ilgi duydum ve bu konularda kendimi geliştirdim.
+  - Şu anda C# ve Unity ile oyun geliştirme öğrenmekteyim.
+  
+  C/C++, Python, Java, C# gibi dillerde orta seviyede bilgi sahibiyim. Ayrıca bu dillerde nesne yönelimli programlama yapabiliyorum.
+  
+  Python ile veri görselleştirme, veri analizi, veri bilimi ve makine öğrenmesi alanlarında çeşitli kurslara katıldım ve sertifikalarını aldım.
     
     
 
   
-  </a>
+  
 </p>
 
 <p align="center">

@@ -21,14 +21,9 @@
   - Yaz tatilinde veri bilimi ve makine öğrenmesi algoritmalarına ilgi duydum ve bu konularda kendimi geliştirdim.
   - Şu anda C# ve Unity ile oyun geliştirme öğrenmekteyim.
   
-  C/C++, Python, Java, C# gibi dillerde orta seviyede bilgi sahibiyim. Ayrıca bu dillerde nesne yönelimli programlama yapabiliyorum.
-  
+  C/C++, Python, Java, C# gibi dillerde orta seviyede bilgi sahibiyim. Ayrıca bu dillerde nesne yönelimli programlama yapabiliyorum.<br>
   Python ile veri görselleştirme, veri analizi, veri bilimi ve makine öğrenmesi alanlarında çeşitli kurslara katıldım ve sertifikalarını aldım.
-    
-    
-
-  
-  
+  <br><br><br><br><br>
 </p>
 
 <p align="center">

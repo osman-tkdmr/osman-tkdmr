@@ -13,16 +13,16 @@
   
   <h3>Hakkımda</h3>
     
-  Yazılım alanında ilerlemek için aldığım eğitim ve deneyimler şunlardır:
-  
-  - 1.sınıfta C dili ile algoritma ve programlama dersi alarak temel kavramları öğrendim.
-  - 2.sınıfta C++ dili ile veri yapıları ve nesne tabanlı programlama konularını işledim.
-  - Java Swing kullanarak veri tabanına bağlı bir Windows uygulaması geliştirdim ve bunu genel erişime açtım.
-  - Yaz tatilinde veri bilimi ve makine öğrenmesi algoritmalarına ilgi duydum ve bu konularda kendimi geliştirdim.
-  - Şu anda C# ve Unity ile oyun geliştirme öğrenmekteyim.
-  
-  C/C++, Python, Java, C# gibi dillerde orta seviyede bilgi sahibiyim. Ayrıca bu dillerde nesne yönelimli programlama yapabiliyorum.<br>
-  Python ile veri görselleştirme, veri analizi, veri bilimi ve makine öğrenmesi alanlarında çeşitli kurslara katıldım ve sertifikalarını aldım.
+    The training and experiences I received to advance in the software field are as follows:
+
+    - I learned the basic concepts by taking algorithms and programming courses in C language in the first grade.
+    - In my sophomore year, I studied data structures and object-oriented programming using the C++ language.
+    - I developed a database-connected Windows application using Java Swing and made it publicly available.
+    - During my summer vacation, I became interested in data science and machine learning algorithms and improved myself in these subjects.
+    - I am currently learning game development with C# and Unity.
+    
+    I have intermediate level knowledge in languages ​​such as C/C++, Python, Java, C#. I can also do object-oriented programming in these languages.
+    I attended various courses and received certificates in the fields of data visualization, data analysis, data science and machine learning with Python.
   <br><br><br><br><br>
 </p>
 

@@ -11,7 +11,7 @@
 <p>
   
   
-  <h3>Hakkımda</h3>
+  <h2>About me</h2>
     
   The training and experiences I received to advance in the software field are as follows:
 

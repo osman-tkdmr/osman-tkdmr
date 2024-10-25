@@ -30,28 +30,22 @@ A foundation in game development (Unity) and 3D modeling (Blender) has honed my 
 
 I’m always excited to collaborate on data-driven projects and continuously expand my expertise within the evolving machine learning landscape.
   <br><br><br><br><br>
-</p>
-
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://www.refugies-gironde.fr/content/uploads/2022/12/lkd.png" alt="" height="30" width="40" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.refugies-gironde.fr/content/uploads/2022/12/lkd.png" alt="LinkedIn" height="30" width="40" />
   </a>
   
-  <a href="https://www.kaggle.com/osmantekdamar" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="" height="30" width="40" />
-  </a>
-
-  <a href="https://leetcode.com/osman_tkdmr/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="" height="30" width="40" />
-  </a>
-
-  <a href="mailto:osmantekdmr@gmail.com" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://github.com/user-attachments/assets/d3856b8b-b000-4d36-a411-dceb70c4a36e" alt="" height="30" width="40" />
+  <a href="https://www.kaggle.com/osmantekdamar" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="Kaggle" height="30" width="40" />
   </a>
   
-
-</p>
-
+  <a href="https://leetcode.com/osman_tkdmr/" target="_blank" rel="noopener noreferrer">
+    <img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="LeetCode" height="30" width="40" />
+  </a>
+  
+  <a href="mailto:osmantekdmr@gmail.com">
+    <img src="https://github.com/user-attachments/assets/d3856b8b-b000-4d36-a411-dceb70c4a36e" alt="Email" height="30" width="40" />
+  </a>
+</div>
 
 

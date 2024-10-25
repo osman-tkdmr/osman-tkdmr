@@ -21,6 +21,7 @@ Passionate about transforming data into actionable insights, I focus on developi
 Data Analysis & Visualization: Proficient in data manipulation and visualization with Pandas, NumPy, and Matplotlib
 Machine Learning: Skilled in ML model development using scikit-learn
 Interactive Exploration: Experienced with Jupyter Notebooks for streamlined data exploration and clear project documentation
+
 🎯 Career Focus:
 Driven to specialize in recommendation systems, I combine theoretical insights with hands-on project experience to deliver more personalized, data-informed user experiences.
 

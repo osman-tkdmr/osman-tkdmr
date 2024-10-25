@@ -1,4 +1,4 @@
-![1728960](https://github.com/osman-tkdmr/osman-tkdmr/assets/67903397/f3d62163-1b89-4f9f-bff6-7aff46236f00)
+![Osman Tekdamar](https://github.com/user-attachments/assets/7346862a-0900-4551-809d-b0104077a293)
 
 
 

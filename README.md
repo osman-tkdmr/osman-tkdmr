@@ -99,16 +99,16 @@ I’m always excited to collaborate on data-driven projects and continuously exp
   <h3>🤝 Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="40" alt="LinkedIn"  /> 
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40" alt="LinkedIn"  /> 
+    </a>&nbsp;
     <a href="https://www.kaggle.com/osmantekdamar" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="200" height="40" alt="Kaggle" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="150" height="40" alt="Kaggle" />
+    </a>&nbsp;
     <a href="https://leetcode.com/osman_tkdmr/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="200" height="40" alt="LeetCode" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="150" height="40" alt="LeetCode" />
+    </a>&nbsp;
     <a href="mailto:osmantekdmr@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="200" height="40" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="40" alt="Gmail" />
     </a>
   </p>
 </div>

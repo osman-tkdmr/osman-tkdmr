@@ -30,22 +30,53 @@ A foundation in game development (Unity) and 3D modeling (Blender) has honed my 
 
 I’m always excited to collaborate on data-driven projects and continuously expand my expertise within the evolving machine learning landscape.
   <br><br><br><br><br>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.refugies-gironde.fr/content/uploads/2022/12/lkd.png" alt="LinkedIn" height="30" width="40" />
-  </a>
   
-  <a href="https://www.kaggle.com/osmantekdamar" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="Kaggle" height="30" width="40" />
+<h3 align="center">Benimle İletişime Geçin:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/osman-tekdamar-324ba4251" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://leetcode.com/osman_tkdmr/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="LeetCode" height="30" width="40" />
+  <a href="https://www.kaggle.com/osmantekdamar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  
+  <a href="https://leetcode.com/osman_tkdmr/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
   <a href="mailto:osmantekdmr@gmail.com">
-    <img src="https://github.com/user-attachments/assets/d3856b8b-b000-4d36-a411-dceb70c4a36e" alt="Email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
+</p>
 
+<h3 align="center">🛠️ Teknolojiler & Araçlar:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
+<h3 align="center">📈 GitHub İstatistikleri:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osman-tkdmr&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osman-tkdmr&theme=radical" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">📊 En Çok Kullandığım Diller:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-tkdmr&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h3 align="center">🏆 GitHub Profil Başarıları:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osman-tkdmr&theme=radical&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osman-tkdmr&color=blueviolet" alt="Profile Views" />
+</p>

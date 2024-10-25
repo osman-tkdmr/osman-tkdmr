@@ -39,35 +39,35 @@ I’m always excited to collaborate on data-driven projects and continuously exp
       <table>
         <tr>
           <td align="center">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%" height="100%" alt="Python" />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%" alt="Python" />
           </td>
           <td align="center">
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100%" height="100%" alt="Java" />
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100%" alt="Java" />
           </td>
           <td align="center">
-            <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="100%" height="100%" alt="Unity" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" width="100%" height="100%" alt="Matplotlib" />
-          </td>
-          <td align="center">
-            <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="100%" height="100%" alt="Scikit-learn" />
-          </td>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="100%" height="100%" alt="Pandas" />
+            <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="100%" alt="Unity" />
           </td>
         </tr>
         <tr>
           <td align="center">
-            <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="100%" height="100%" alt="NumPy" />
+            <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" width="100%" alt="Matplotlib" />
           </td>
           <td align="center">
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="60%" alt="C#" />
+            <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="100%" alt="Scikit-learn" />
           </td>
           <td align="center">
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100%" height="100%" alt="Git" />
+            <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="100%" alt="Pandas" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="100%" alt="NumPy" />
+          </td>
+          <td align="center">
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="50%" alt="C#" />
+          </td>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100%" alt="Git" />
           </td>
         </tr>
       </table>

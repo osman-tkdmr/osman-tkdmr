@@ -45,7 +45,12 @@ I’m always excited to collaborate on data-driven projects and continuously exp
   <a href="https://leetcode.com/osman_tkdmr/" target="blank" style="text-decoration: none;">
     <img align="center" src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="" height="30" width="40" />
   </a>
+
+  <a href="mailto:osmantekdmr@gmail.com" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://github.com/user-attachments/assets/d3856b8b-b000-4d36-a411-dceb70c4a36e" alt="" height="30" width="40" />
+  </a>
   
+
 </p>
 
 

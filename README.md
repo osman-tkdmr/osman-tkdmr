@@ -1,9 +1,6 @@
 ![Osman Tekdamar (2)](https://github.com/user-attachments/assets/b4e835be-b381-4910-8d97-a7ddd893c9f7)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Hello+I'm+Osman;I+improve+myself+in+the+field;Data Science." alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p>
   

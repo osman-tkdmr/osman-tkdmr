@@ -1,5 +1,4 @@
-![Osman Tekdamar (2)](https://github.com/user-attachments/assets/b4e835be-b381-4910-8d97-a7ddd893c9f7)
-
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/e46ea09f-bc18-4117-a0a3-68afdd16aca5" />
 
 
 <p>
